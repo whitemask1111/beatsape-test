@@ -1,0 +1,19 @@
+{
+  "name": "BeatsApe #1",
+  "description": "Genesis BeatsApe NFT granting access to the IO Beats Private Club and exclusive future utilities in the IO Beats Metaverse.",
+  "image": "https://raw.githubusercontent.com/whitemask1111/beatsape-test/main/iobeatsLogo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Access to IO Beats Player (Basic)"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Community Club Entry"
+    }
+  ]
+}
